@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/crypto-tracker/static/css/main.95ace446.chunk.css",
-    "main.js": "/crypto-tracker/static/js/main.19e36ba0.chunk.js",
-    "main.js.map": "/crypto-tracker/static/js/main.19e36ba0.chunk.js.map",
-    "runtime-main.js": "/crypto-tracker/static/js/runtime-main.671f61d2.js",
-    "runtime-main.js.map": "/crypto-tracker/static/js/runtime-main.671f61d2.js.map",
-    "static/js/2.4de22496.chunk.js": "/crypto-tracker/static/js/2.4de22496.chunk.js",
-    "static/js/2.4de22496.chunk.js.map": "/crypto-tracker/static/js/2.4de22496.chunk.js.map",
-    "index.html": "/crypto-tracker/index.html",
-    "static/css/main.95ace446.chunk.css.map": "/crypto-tracker/static/css/main.95ace446.chunk.css.map",
-    "static/js/2.4de22496.chunk.js.LICENSE.txt": "/crypto-tracker/static/js/2.4de22496.chunk.js.LICENSE.txt"
+    "main.css": "/react-crypto-tracker/static/css/main.95ace446.chunk.css",
+    "main.js": "/react-crypto-tracker/static/js/main.bd4e29ba.chunk.js",
+    "main.js.map": "/react-crypto-tracker/static/js/main.bd4e29ba.chunk.js.map",
+    "runtime-main.js": "/react-crypto-tracker/static/js/runtime-main.b0d3c33d.js",
+    "runtime-main.js.map": "/react-crypto-tracker/static/js/runtime-main.b0d3c33d.js.map",
+    "static/js/2.a6c6dd38.chunk.js": "/react-crypto-tracker/static/js/2.a6c6dd38.chunk.js",
+    "static/js/2.a6c6dd38.chunk.js.map": "/react-crypto-tracker/static/js/2.a6c6dd38.chunk.js.map",
+    "index.html": "/react-crypto-tracker/index.html",
+    "static/css/main.95ace446.chunk.css.map": "/react-crypto-tracker/static/css/main.95ace446.chunk.css.map",
+    "static/js/2.a6c6dd38.chunk.js.LICENSE.txt": "/react-crypto-tracker/static/js/2.a6c6dd38.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.671f61d2.js",
-    "static/js/2.4de22496.chunk.js",
+    "static/js/runtime-main.b0d3c33d.js",
+    "static/js/2.a6c6dd38.chunk.js",
     "static/css/main.95ace446.chunk.css",
-    "static/js/main.19e36ba0.chunk.js"
+    "static/js/main.bd4e29ba.chunk.js"
   ]
 }
